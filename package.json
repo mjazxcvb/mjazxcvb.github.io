@@ -17,8 +17,10 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
+    "babel-plugin-styled-components": "^2.1.4",
     "gatsby": "^5.13.3",
     "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-styled-components": "^6.13.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "socket.io-adapter": "^2.5.4",

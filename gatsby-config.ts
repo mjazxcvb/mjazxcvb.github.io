@@ -1,7 +1,6 @@
 import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
-  pathPrefix: "/mjazxcvb",
   graphqlTypegen: true,
   plugins: [
     {
